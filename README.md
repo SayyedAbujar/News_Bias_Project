@@ -27,3 +27,11 @@ Deployed with **FastAPI backend** and a **Streamlit dashboard** for user-friendl
 ---
 
 ## 📂 Project Structure
+
+News_bias_Project/
+│── data/ # Dataset (processed/cleaned)
+│── notebooks/ # Jupyter notebooks (EDA, model training)
+│── model/ # Saved joblib models & vectorizers
+│── backend/ # FastAPI app
+│── frontend/ # Streamlit app
+│── README.md # Project documentation
